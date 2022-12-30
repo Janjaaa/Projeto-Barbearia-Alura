@@ -274,6 +274,8 @@ body {
     }
     nav{
         position: static;
+        font-size: 17px;
+        margin-left: 7px;
     }
     .lista-beneficios, .imagembeneficios{
         width: 100%;
